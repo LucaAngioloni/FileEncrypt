@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>DropArrowImage.png</file>
+        <file>icon.icns</file>
+    </qresource>
+</RCC>

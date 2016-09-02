@@ -24,7 +24,7 @@ To encrypt or decrypt files simply drag and drop and insert password.
 </tr>
 </tbody></table>
 <h2>Download</h2>
-MacOS version already compiled and deployed can be downloaded <a href="https://github.com/LucaAngioloni/FileEncrypt/raw/master/FileEncrypt.dmg">here</a>.
+MacOS version already compiled and deployed can be downloaded <a href="https://github.com/LucaAngioloni/FileEncrypt/releases/download/v1.0/FileEncrypt.dmg">here</a>.
 
 
 <h3>Credits</h3>
